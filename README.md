@@ -45,7 +45,8 @@ if the command output are not clear please make sure that you have installed doc
 sudo docker-compose up
 ```
 
-** Docker Method is the usin uri of 0.0.0.0 with port 8000 
+** Docker Method is the usin uri of 0.0.0.0 with port 8000
+** if you are going to use the docker method. you got to uncomment the postgres settings in the core/settings/development.py
 
 * if you have correctly followed the installation setup, you are going to have a running instance of our project.
 
